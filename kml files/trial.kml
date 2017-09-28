@@ -4,10 +4,9 @@
 <Placemark> 
  <Polygon> <outerBoundaryIs>  <LinearRing>  
   <coordinates>
-   135.2, 35.4, 0. 
-   135.4, 35.6, 0.
-   135.2, 35.6, 0.
-   135.2, 35.4, 0. 
+125.192485900893445,11.292414302340728,0.
+125.199106107697290,11.292412007686284,0.
+125.185865665635191,11.292416448974683,0.
   </coordinates>
  </LinearRing> </outerBoundaryIs> </Polygon>
  
