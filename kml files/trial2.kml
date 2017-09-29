@@ -7,15 +7,16 @@
   	125,11
   	125.3,11
   	125.3,11.5 
+
+	<Style> 
+	  <PolyStyle>  
+	   <color>#a00000ff</color>
+	  <outline>0</outline>
+	  </PolyStyle> 
+	</Style>
   </coordinates>
  </LinearRing> </outerBoundaryIs> </Polygon>
- 
- <Style> 
-  <PolyStyle>  
-   <color>#a00000ff</color>
-  <outline>0</outline>
-  </PolyStyle> 
- </Style>
+
 </Placemark>
 
 </Document> </kml>
