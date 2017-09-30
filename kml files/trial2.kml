@@ -51,6 +51,14 @@
  </Style>
 </Placemark>
 
+<Placemark> 
+ <Polygon> <outerBoundaryIs>  <LinearRing>  
+  <coordinates>
+    125,11
+    124.9891954347067,11.252874564356997
+    125.3,10.8 
+  </coordinates>
+ </LinearRing> </outerBoundaryIs> </Polygon>
  
  <Style> 
   <PolyStyle>  
