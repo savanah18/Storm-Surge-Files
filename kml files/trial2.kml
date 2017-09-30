@@ -9,24 +9,23 @@
 </Style>
 
 <Placemark> 
- <styleUrl>#examplePolyStyle</styleUrl>
- <Multigeometry>
- <Polygon> <outerBoundaryIs>  <LinearRing>  
-  <coordinates>
-  	125,11
-  	125.3,11
-  	125.3,11.5 
-  </coordinates>
- </LinearRing> </outerBoundaryIs> </Polygon>
- </Polygon>
- <Polygon> <outerBoundaryIs>  <LinearRing>  
-  <coordinates>
-  	125,11
-  	125.3,11
-  	125.3,10.8
-  </coordinates>
- </LinearRing> </outerBoundaryIs> </Polygon>
- </Polygon>
-</Multigeometry>
+  <styleUrl>#examplePolyStyle</styleUrl>
+  <visibility>0</visibility>
+  <MultiGeometry>
+     <Polygon> <outerBoundaryIs>  <LinearRing>  
+      <coordinates>
+        125,11
+        125.3,11
+        125.3,11.5 
+      </coordinates>
+     </LinearRing> </outerBoundaryIs> </Polygon>
+     <Polygon> <outerBoundaryIs>  <LinearRing>  
+      <coordinates>
+        125,11
+        125.3,11
+        125.3,10.8 
+      </coordinates>
+     </LinearRing> </outerBoundaryIs> </Polygon>
+
+  </MultiGeometry>
 </Placemark>
-</Document> </kml>
