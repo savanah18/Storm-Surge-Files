@@ -21,8 +21,8 @@
      </LinearRing> </outerBoundaryIs> </Polygon>
      <Polygon> <outerBoundaryIs>  <LinearRing>  
       <coordinates>
-        125,11
-        125.3,11
+        125,11.1
+        125.4,11
         125.3,10.8 
       </coordinates>
      </LinearRing> </outerBoundaryIs> </Polygon>
