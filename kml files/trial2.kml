@@ -34,23 +34,6 @@
  </Style>
 </Placemark>
 
-</Placemark>
-<Placemark>
- <Polygon> <outerBoundaryIs>  <LinearRing>  
-  <coordinates>
-     124.9891954347067,11.252874564356997
-     124.9907504055093,11.254057506530023
-     124.98907920848353,11.255125848539222
-  </coordinates>
- </LinearRing> </outerBoundaryIs> </Polygon>
- <Style>
-  <PolyStyle>
-   <color>#a0ff00ff</color>
-  <outline>0</outline>
-  </PolyStyle>
- </Style>
-</Placemark>
-
 <Placemark> 
  <Polygon> <outerBoundaryIs>  <LinearRing>  
   <coordinates>
