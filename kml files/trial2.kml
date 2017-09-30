@@ -1,32 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?> 
 <kml xmlns="http://earth.google.com/kml/2.0"> <Document>
 
-<Style id="examplePolyStyle">
-<PolyStyle>
-  <color>ffff0000</color>
-  <colorMode>random</colorMode>
-</PolyStyle>
-</Style>
-
 <Placemark> 
-  <styleUrl>#examplePolyStyle</styleUrl>
-  <name>SF Marina Harbor Master</name>
-  <visibility>0</visibility>
-  <MultiGeometry>
-     <Polygon> <outerBoundaryIs>  <LinearRing>  
-      <coordinates>
-        125,11
-        125.3,11
-        125.3,11.5 
-      </coordinates>
-     </LinearRing> </outerBoundaryIs> </Polygon>
-     <Polygon> <outerBoundaryIs>  <LinearRing>  
-      <coordinates>
-        125,11
-        125.3,11
-        125.3,11.5 
-      </coordinates>
-     </LinearRing> </outerBoundaryIs> </Polygon>
-
-  </MultiGeometry>
+ <Polygon> <outerBoundaryIs>  <LinearRing>  
+  <coordinates>
+    125,11
+    125.3,11
+    125.3,11.5 
+  </coordinates>
+ </LinearRing> </outerBoundaryIs> </Polygon>
+ 
+ <Style> 
+  <PolyStyle>  
+   <color>#a0ff00ff</color>
+  <outline>0</outline>
+  </PolyStyle> 
+ </Style>
 </Placemark>
+
+</Document> </kml>
