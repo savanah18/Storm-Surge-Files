@@ -10,7 +10,7 @@
 
 <Placemark> 
   <styleUrl>#examplePolyStyle</styleUrl>
-  <visibility>0</visibility>
+  <visibility>1</visibility>
   <MultiGeometry>
      <Polygon> <outerBoundaryIs>  <LinearRing>  
       <coordinates>
