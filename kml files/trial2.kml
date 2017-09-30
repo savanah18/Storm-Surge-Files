@@ -10,20 +10,21 @@
 
 <Placemark> 
   <styleUrl>#examplePolyStyle</styleUrl>
-  <visibility>1</visibility>
+  <name>SF Marina Harbor Master</name>
+  <visibility>0</visibility>
   <MultiGeometry>
      <Polygon> <outerBoundaryIs>  <LinearRing>  
       <coordinates>
-       125.18313347849372,11.19420390014348
-       125.18201501587262,11.192839831590202
-       125.18362379478373,11.192982066493316
+        125,11
+        125.3,11
+        125.3,11.5 
       </coordinates>
      </LinearRing> </outerBoundaryIs> </Polygon>
      <Polygon> <outerBoundaryIs>  <LinearRing>  
       <coordinates>
-        125,11.1
-        125.4,11
-        125.3,10.8 
+        125,11
+        125.3,11
+        125.3,11.5 
       </coordinates>
      </LinearRing> </outerBoundaryIs> </Polygon>
 
