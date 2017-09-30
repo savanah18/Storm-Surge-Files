@@ -3,7 +3,7 @@
 
 <Style id="examplePolyStyle">
 <PolyStyle>
-  <color>ff0000cc</color>
+  <color>ffff0000</color>
   <colorMode>random</colorMode>
 </PolyStyle>
 </Style>
