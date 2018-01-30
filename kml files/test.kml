@@ -15,4 +15,19 @@
   </PolyStyle>
  </Style>
 </Placemark>
-</Document> </kml>
+<Placemark>
+ <Polygon> <outerBoundaryIs>  <LinearRing>  
+  <coordinates>
+     124.98814110506828,11.238800413017083
+     124.98813301677326,11.237620179649134
+     124.98909502044144,11.238141831998895
+  </coordinates>
+ </LinearRing> </outerBoundaryIs> </Polygon>
+ <Style>
+  <PolyStyle>
+   <color>#a03131ff</color>
+  <outline>0</outline>
+  </PolyStyle>
+ </Style>
+</Placemark>
+ </Document> </kml>
